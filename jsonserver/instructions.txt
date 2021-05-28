@@ -1,0 +1,2 @@
+npm run db -- to run database
+npm run tunnel -- t run server
